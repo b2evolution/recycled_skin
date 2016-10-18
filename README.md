@@ -1,6 +1,8 @@
-# Recycled v1.1 skin for b2evolution CMS.
+# Recycled skin for b2evolution CMS.
 
-<img src="skinshot.png"/>
+<img src="skinshot.png" style="text-align:center"/>
+
+### Update Log: 
 
 #### v1.1.1
 
